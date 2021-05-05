@@ -31,5 +31,5 @@
 <img src="/imgs/im3.png" width="600"/>
 <img src="/imgs/im4.png" width="600"/>
 
-[Видеоотчёт/Video report]()
-<br/>[Обзор кода/Code review]()
+[Видеоотчёт/Video report](https://drive.google.com/file/d/1ggMYWWEyl3JF-b4EL5y96njEHLO4tEkP/view?usp=sharing)
+<br/>[Обзор кода/Code review](https://drive.google.com/file/d/1Lgvwk-WzMatpId0arj9fNGgsNt6CbHV_/view?usp=sharing)
