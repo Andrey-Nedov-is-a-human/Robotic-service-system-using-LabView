@@ -1,0 +1,181 @@
+Robot
+		ID: wall_R0
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J2
+				Actuator
+				Robot Component
+						ID: center_wall
+						ID: left_wall
+						ID: right_wall
+		ID: wall_R1
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J2
+				Actuator
+				Robot Component
+						ID: center_wall
+						ID: left_wall
+						ID: right_wall
+		ID: wall_R2
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J2
+				Actuator
+				Robot Component
+						ID: center_wall
+						ID: left_wall
+						ID: right_wall
+		ID: wall_R3
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J2
+				Actuator
+				Robot Component
+						ID: center_wall
+						ID: left_wall
+						ID: right_wall
+		ID: plate_R0
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+				Actuator
+				Robot Component
+						ID: Box
+						ID: Box_O0
+						ID: Box_O1
+						ID: Cylinder
+						ID: Cylinder_O0
+						ID: Cylinder_O1
+						ID: Cylinder_O1_O0
+		ID: plate_R1
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+				Actuator
+				Robot Component
+						ID: Box
+						ID: Box_O0
+						ID: Box_O1
+						ID: Cylinder
+						ID: Cylinder_O0
+						ID: Cylinder_O1
+						ID: Cylinder_O1_O0
+		ID: plate_R2
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+				Actuator
+				Robot Component
+						ID: Box
+						ID: Box_O0
+						ID: Box_O1
+						ID: Cylinder
+						ID: Cylinder_O0
+						ID: Cylinder_O1
+						ID: Cylinder_O1_O0
+		ID: plate_R3
+				Sensor
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+				Actuator
+				Robot Component
+						ID: Box
+						ID: Box_O0
+						ID: Box_O1
+						ID: Cylinder
+						ID: Cylinder_O0
+						ID: Cylinder_O1
+						ID: Cylinder_O1_O0
+		ID: RC_Robot_v1_R0
+				Sensor
+						ID: AXIS M1011_S0
+						ID: Sharp IR GP2D12_Left_S0
+						ID: Sharp IR GP2D12_Right_S1
+						ID: Sharp IR GP2D12_ForwardLeft_S2
+						ID: Sharp IR GP2D12_ForwardRight_S3
+				Joint
+						ID: Joint_J4
+						ID: Joint_J1_J0
+						ID: Joint_J2_J0
+						ID: Joint_J3_J0
+						ID: Joint_J4_J0
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Left_Joint
+						ID: Right_Joint
+						ID: Omni Joint
+						ID: Joint_camera
+						ID: Joint_J10
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+				Actuator
+						ID: Motor_Joint_J1
+						ID: Motor_Joint_J3
+						ID: Motor_Joint_J5
+						ID: Left Motor
+						ID: Right Motor
+						ID: Camera_Servo
+				Robot Component
+						ID: Base
+						ID: Left Wheel
+						ID: Right Wheel
+						ID: Omni Wheel
+						ID: Vertical Body
+						ID: Vertical Move
+						ID: Horizontal Body
+						ID: Horizontal Move
+						ID: Vertical Body 2
+						ID: Finger Left
+						ID: Finger Right
+						ID: Finger Left Bottom
+						ID: Finger Right Bottom
+
+
+Obstacle
+						ID: 
+						ID: Sphere_O0
+						ID: Sphere_O1
+						ID: Sphere_O2
+						ID: Sphere_O3
+						ID: Sphere_O4
+						ID: Sphere_O5
+						ID: Sphere_O7
+						ID: Sphere_O8
+						ID: Sphere_O9
+						ID: Sphere_O10
+						ID: Sphere_O11
+						ID: Sphere_O12
+						ID: Box_O0
+						ID: Box_O1
+						ID: Box_O2
+						ID: Box_O3
+						ID: Box_O4
+						ID: Box_O5
