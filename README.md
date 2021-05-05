@@ -32,4 +32,4 @@
 <img src="/imgs/im4.png" width="600"/>
 
 [Видеоотчёт/Video report]()
-[Обзор кода/Code review]()
+<br/>[Обзор кода/Code review]()
