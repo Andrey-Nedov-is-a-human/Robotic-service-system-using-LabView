@@ -3,7 +3,7 @@
 *Разработчик/Developer*
 1. [Андрей Недов](github.com/Andrey-Nedov-is-a-human)
 
-<img src="/imgs/img5.jpg" width="600"/>
+<img src="/imgs/im5.jpg" width="600"/>
 
 ## Дано
 Сервисный мобильный робот, оснащенный манипулятором со схватом, размещенный на площадке для 
