@@ -27,4 +27,9 @@
 
 ## Результат
 
+<img src="/imgs/im2.png" width="600"/>
+<img src="/imgs/im3.png" width="600"/>
+<img src="/imgs/im4.png" width="600"/>
 
+[Видеоотчёт/Video report]()
+[Обзор кода/Code review]()
