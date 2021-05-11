@@ -1,4 +1,4 @@
-# Разработка системы управления роботом для доставки грузов с использованием *LabView* / Development of a control system for a robot for delivering goods using *LabView*
+# Система управления роботом для доставки грузов с использованием *LabView* / Сontrol system for a robot for delivering goods using *LabView*
 
 *Разработчик/Developer*
 1. [Андрей Недов](github.com/Andrey-Nedov-is-a-human)
