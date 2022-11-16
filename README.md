@@ -1,34 +1,29 @@
-# Система управления роботом для доставки грузов с использованием *LabView* / Сontrol system for a robot for delivering goods using *LabView*
+# Сontrol system for a robot for delivering goods using *LabView*
 
-*Разработчик/Developer*
-1. [Андрей Недов](github.com/Andrey-Nedov-is-a-human) 
+*Developer*
+1. [Andrey Nedov](https://github.com/Andrey-Nedov) 
 
-## Дано
+## Given
 <img src="/imgs/im5.jpg" width="600"/>
 
-Сервисный мобильный робот, оснащенный манипулятором со схватом, размещенный на площадке для 
-тестирования логистических функций. На площадке выстроена имитация рабочей зоны (цеха) в рамках 
-которой нужно выполнить производственное задание по перемещению заданных объектов в указанные 
-приемники.
-Роль объектов выполняют цветные шары, роль приемников – специальные площадки.
+Service mobile robot equipped with a manipulator with a gripper, placed on the site for testing logistics functions. An imitation of a working area (workshop) has been built on the site, within which it is necessary to complete the production task for moving the specified objects to the specified receivers.
+In the role of objects - colored balls, the role of receivers - special sites.
 
-## Задание
+## Task
 <img src="/imgs/im6.jpg" width="600"/>
 
-На застроенной в соответствии с индивидуальным заданием рабочей зоне обеспечить перемещение 
-объектов в рамках указанной заданием логикой обработки.
-Разработать систему управления роботом с обеспечением визуализации, определенной индивидуальным 
-заданием.
+On a work area built up in accordance with an individual task, ensure the movement of objects within the framework of the processing logic specified by the task.
+Develop a robot control system with visualization provided by an individual task.
 
-*Примечания*<br/>
-- Задание выполняется в симуляторе LabView Robotics.
-- Язык программирования: LABVIEW. 
-- Задание должно выполняться роботом в полностью автоматическом режиме
+*Notes*<br/>
+- The task is run in the LabView Robotics simulator.
+- Programming language: LabView.
+- The task must be performed by the robot in fully automatic mode
 
-## Результат
+## Result
 
-[Видеоотчёт/Video report](https://drive.google.com/file/d/1ggMYWWEyl3JF-b4EL5y96njEHLO4tEkP/view?usp=sharing)
-<br/>[Обзор кода/Code review](https://drive.google.com/file/d/1Lgvwk-WzMatpId0arj9fNGgsNt6CbHV_/view?usp=sharing)
+[Video report](https://drive.google.com/file/d/1ggMYWWEyl3JF-b4EL5y96njEHLO4tEkP/view?usp=sharing)
+<br/>[Code review](https://drive.google.com/file/d/1Lgvwk-WzMatpId0arj9fNGgsNt6CbHV_/view?usp=sharing)
 
 <img src="/imgs/im2.png" width="600"/>
 <img src="/imgs/im3.png" width="600"/>
