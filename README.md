@@ -1,5 +1,7 @@
 # Сontrol system for a robot for delivering goods using *LabView*
 
+*07.04.2021*
+
 *Developer*
 1. [Andrey Nedov](https://github.com/Andrey-Nedov) 
 
